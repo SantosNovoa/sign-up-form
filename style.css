@@ -1,0 +1,22 @@
+@import url('https://fonts.cdnfonts.com/css/norse');
+
+body {
+    margin: 0;
+    display: flex;
+}
+
+.left-section {
+    background-color: black;
+    width: 25%;
+    background-image: url("sign-up-form.jpg");
+    background-size: 68vh;
+}
+.right-section {
+    background-color: gray;
+    width: 75%;
+    height: 100vh;
+}
+
+.odin-text {
+    font-family: 'Norse', sans-serif;
+}
